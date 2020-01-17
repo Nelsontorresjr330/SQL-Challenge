@@ -43,4 +43,4 @@
 -- GROUP BY last_name ORDER BY COUNT(last_name) DESC;
 
 SELECT * FROM "Employees" WHERE emp_no = 499942
--- Whatashame
+-- Tragic :/
